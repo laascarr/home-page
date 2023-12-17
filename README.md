@@ -6,6 +6,7 @@
         <head>
 		                <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
                 <meta charset="utf-8" />
+		<meta name="google-site-verification" content="Id2T9mHvOqFPzbw1pmluXtvfSJXjVT6HYYTyM_BWdwU" />
                 <title>Maxence Phalempin</title>
         </head>
 
